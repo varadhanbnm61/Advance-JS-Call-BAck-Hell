@@ -1,0 +1,10 @@
+body{
+    background-color: orange;
+    color: white;
+}
+span{
+   font-size: large;
+   font-style: italic;
+   color: black;
+   align-content: center;
+}
